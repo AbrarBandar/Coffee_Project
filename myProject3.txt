@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>coffee </title>
+  <style>
+
+.navbar{
+  overflow: hidden;
+}
+.navbar a {
+ float: right;
+ display: block;
+ color: black;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 20px;
+ font-family: 'El Messiri', sans-serif;
+								
+}
+.navbar a:hover {
+ color: #ddd;
+}
+.navbar a.active {
+ color: #ddd;
+}
+  </style>
+ </head>
+ <body>
+  <nav class="navbar" >
+   <ul>
+    <h><a href="myProject.html">«·—∆Ì”Ì…</a></h>  
+    <h><a href="myProject2.html">ﬂÊ›Ì »«—œ</a></h>       
+    <h><a href="myProject1.html">ﬂÊ›Ì ”«Œ‰</a></h>
+    <h><a class="active" href="myProject3.html">HD</a></h>
+   </ul>
+  </nav>
+
+
+
+ </body>
+</html>
+
+
+ 

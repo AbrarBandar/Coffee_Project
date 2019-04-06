@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+<title>coffee </title>
+
+</head>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+.navt {
+  overflow: hidden;
+  background-color: #333;
+}
+.navt a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size:20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.navt a.active {
+  background-color:#4CAF50;
+  color: white;
+  
+}
+.column {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.row:after {
+  content: "";
+  display: table; 
+  clear: both;
+}
+.mystyle{
+  padding: 10px;
+  text-align: center;
+  width:device-width;
+  font-size:400%;
+  text-shadow: 2px 1px ;
+  font-family: 'El Messiri', sans-serif;
+  color: #00cc99;
+}
+}
+
+.body1{
+  background:#ddd url('backcol.jpg') ;
+  background-repeat: no-repeat;
+  background-position:center top ;
+  background-size: width: 100px height: 300px; ;
+  margin: 0;
+}
+.img1{
+  float :left ;
+  margin: 40px 20px ;
+}
+.img2{
+  float :right ;
+  margin: 40px 20px ;
+}
+.mys{
+  color:black;
+  font-size:25px;
+  text-align:center;
+}
+</style>
+</head>
+ <body>
+  <nav class="navt" >
+   <ul>
+    <h><a href="myProject.html">«б—∆н”н…</a></h>  
+    <h><a class="active" href="myProject2.html">яжЁн »«—ѕ</a></h>       
+    <h><a href="myProject1.html">яжЁн ”«ќд</a></h>
+    <h><a href="myProject3.html">HD</a></h>
+   </ul>
+  </nav>
+ </body>
+   <section>
+  <body class="body1" ></body>
+     
+   <section/>
+  <body>
+   <section>
+     <li> <li> <li> <li> <li> <li> <li> <li> <li> <li> </li></li></li></li></li></li></li></li></li></li><li> <li> </li></li>
+     <li> <li> <li> <li> <li> <li> <li> <li> <li> <li> </li></li></li></li></li></li></li></li></li></li><li> <li> </li></li>
+     <li> <li> </li></li><li> <li> </li></li>
+      <h1 class="mystyle"> яжЁн »«—ѕ </h1>
+   </section> 
+   <section >
+  <li> <li> <li> <li> <li> <li> <li> </li></li></li></li></li></li></li>
+ <li> <li> <li> <li> <li> <li> <li> <li> <li> <li> </li></li></li></li></li></li></li></li></li></li>
+    <div class="mys">
+     <h1>гжя« «б»«—ѕ </h1>
+     <p><li>:«бгяжшд« </li>
+       <li>2 гбЏё… ’џн—е д”я«Ёне</li>
+       <li>3 гбЏё… я»н—… Ќбн» »жѕ—…° √ж г»н÷ ёеж…</li>
+       <li>3 гбЏё… я»н—… ”я—</li>
+       <li> гяЏ» Ћбћ</li>
+
+       <li>:«бќЎж« </li>
+       <li> ж÷Џ ћгнЏ гё«ѕн— «бг‘—ж» Ён «бќб«Ў «бяе—»«∆н° нќбЎ ћнѕ«р Ћг н”я» Ён Ёд«ћнд жнёѕг г»«‘—….</li></p>
+       <p class="img1"><img src="moca.jpg"></p>
+      
+       <h1><li> я«—гнб гян« ж</li></h1>
+       <p><li> :«бгяжшд« </li>
+       <li>яж» гд «бЌбн» «б”«∆б.</li>
+       <li>гбЏё… я»н—… гд «бя«я«ж «бгЎЌжд.</li>
+       <li>гбЏё… ’џн—… гд «бёеж….</li>
+       <li>гбЏё «д я»н— «д гд ябш гд: я—нг… «бЌбжн« ° ж’б’… «бя—«гнб.</li>
+       <li>Ћб«Ћ гб«Џё я»н—… гд «б”я—.</li>
+       <li>Ћб«Ћ гяЏ»«  гд «бЋбћ.</li></p>
+       <p class="img2"><img src="caramil.jpg"></p>
+    
+      <h1><li> √н” «г—ня«дж </li></h1>
+      <p><li>«бЎ—нё…:</li>
+      <li>дЌ÷— яж» «б‘—» ждгб∆… »«бЋбћ.</li>
+      <li>Ён яж» ¬ќ— д÷Џ гбЏё нд д”я«Ёне</li>
+      <li> ж«б”я— Ќ”» «б—џ»… ждгб∆ д’Ёе »«бг«Ѕ жд–н» «бд”я«Ёне Ёне</li>
+      <li> Ћг д”я»… Ён яж» «бЋбћ ждгб∆ «бг »ён гд «бя«” »«бг«Ѕ "«б»«—ѕ" ж»«бЏ«Ён…</li></p>
+      <p class="img1"><img src="ice.jpg"></p>
+   
+      <h1><li>гжя« √ж—нж </li></h1>
+       <p><li>«бгяжд«  : </li>
+       <li>ян  ж«Ќѕ «ж—нж</li>
+       <li>гбЏё нд ’џн—е д”я«Ёне</li>
+       <li>д’ Ёдћ«д ”я—</li>
+       <li>гбЏёе я»н—е ѕ—нг жн»</li>
+       <li>ёбнб гд ‘яжб« е ен—‘н ”«нбе</li>
+       <li>»я  ѕ—нг жн» «ж я—нг… Ќбжн«  ћ«е“е</li>
+       <li>яж» Ќбн» ”«нб</li>
+       <li>Ћбћ</li>
+       <li>«бЎ—нё… : </li>
+      <li>д÷Џ »«бќб«Ў яж» «бЌбн» ёЎЏ нд «ж—нж ёбнб гд «бен—‘н </li>
+      <li>ж«б”я— ж«бЋбћ ж«бд”я«Ёне жгбЏё… «бѕ—нг жн» ждќбЎег</li>
+      <li>дЌ÷— я«” «б ёѕнг д“нде »‘яжб« … «бен—‘н д’» «бгжя« »«бя«”</li> 
+      <li>жд“нде »«бя—нге «бћ«е“е «ж «бѕ—нг жн» жд“нде »‘яжб« е ен—‘н </li></p>
+      <p class="img2"><img src="moar.jpg"></p>
+    
+     <h1><li>√н” ж«н  гжя« </li></h1>
+      <p><li>«бгяжд«  : </li>
+     <li>я√” Ќбн» ”«∆б</li>
+      <li> —»Џ я√” Ќбн» г—я“ гЌбм</li>
+      <li>гбЏё… я»н—… ёеж… «”»—н”ж</li>
+     <li>«бЎ—нё… :</li>
+     <li>дЌЎ Ён я√” Џ«ѕн ёеж… «”»—н”ж жд–ж»е« гЏ г«Ѕ ѕ«Ё∆ </li>
+     <li>жЋг «÷«Ё… «бЌбн» «бг—я“ «бгЌбм ждќбЎ «бм «д н ћ«д”</li>
+     <li>д”я» «бЌбн» Ён «бя«” бб ёѕнг жд÷Џ «бќбнЎ «б”«»ё </li>
+     <li>ждќбЎе яЋн—«р «бм «д н’»Ќе бжде ”жя—н гЋб «б’ж—е</li></p>
+     <p class="img1"><img src="icew.jpg"></p>
+   
+    </div> 
+   </section >
+  </body>
+</html>
